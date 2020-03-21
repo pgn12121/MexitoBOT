@@ -1,2 +1,2 @@
-# MexitoBOT
- MexitoBOT
+# IIFYM Chef BOT
+ IIFYM Chef BOT
